@@ -1,7 +1,0 @@
-mostafa,111,mostafa_saad_ibrahim,mostafa@gmail.com,01102262671,1
-noha,222,noha_salah,nono171@gmail.com,01234567891,0
-ali,333,ali_wael,wael@gmail.com,01111568497,0
-omar,444,omar28,omar@gmail.com,01552115395,1
-belal,555,belo,belo@gmail.com,01145678923,1
-mohamed,666,mody,mody@hotmail.com,01022319876,1
-
