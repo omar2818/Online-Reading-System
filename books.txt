@@ -1,3 +1,0 @@
-cats,omar,123954,3,aaaaaa,bbbbb,cccccc
-dogs,mo,123456,4,aaaaaa,bbbbb,cccccc,ddddd
-eles,belal,123789,4,aaaaaa,bbbbb,cccccc,eeeeee
