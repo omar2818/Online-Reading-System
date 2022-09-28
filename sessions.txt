@@ -1,4 +1,0 @@
-ali,2022-09-15 19:04:48,1,eles,belal,123789,4,aaaaaa,bbbbb,cccccc,eeeeee
-ali,2022-09-16 16:50:37,dogs,mo,123456,4,aaaaaa,bbbbb,cccccc,ddddd
-ali,2022-09-17 17:03:11,dogs,mo,123456,4,aaaaaa,bbbbb,cccccc,ddddd
-ali,2022-09-17 17:03:41,cats,omar,123954,3,aaaaaa,bbbbb,cccccc
